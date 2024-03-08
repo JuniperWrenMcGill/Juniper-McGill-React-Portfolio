@@ -1,0 +1,45 @@
+/* Header Styles */
+header {
+    background-color: #333; /* Change the background color as needed */
+    padding: 20px 0; /* Adjust padding as needed */
+  }
+  
+  /* Navigation Styles */
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center; /* Align items vertically */
+  }
+  
+  nav ul li {
+    margin: 0 10px; /* Adjust spacing between menu items */
+  }
+  
+  nav ul li:first-child {
+    margin-left: auto; /* Pushes items to the right */
+  }
+  
+  nav ul li:last-child {
+    margin-right: auto; /* Pushes items to the left */
+  }
+  
+  nav ul li a {
+    color: #fff; /* Change the text color as needed */
+    text-decoration: none;
+    font-size: 20px; /* Adjust font size for navigation links */
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline; /* Underline the link on hover */
+  }
+  
+  /* Logo Styles */
+  .logo {
+    height: auto; /* Maintain aspect ratio */
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+  }
+  

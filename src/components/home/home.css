@@ -1,0 +1,30 @@
+.home {
+    padding: 50px; /* Padding around the content */
+    text-align: center; /* Center-align the content */
+  }
+  
+  .home h1 {
+    font-size: 2rem; /* Adjust the font size of the heading */
+    margin-bottom: 20px; /* Add space below the heading */
+  }
+  
+  .home p {
+    font-size: 1.2rem; /* Adjust the font size of the paragraph */
+    line-height: 1.5; /* Set the line height for better readability */
+    margin-bottom: 20px; /* Add space below the paragraph */
+  }
+  
+  .contact-button {
+    display: inline-block; /* Display as inline block */
+    padding: 10px 20px; /* Padding for the button */
+    border-radius: 5px; /* Rounded corners for the button */
+    background-color: #007bff; /* Background color for the button */
+    color: #fff; /* Text color for the button */
+    text-decoration: none; /* Remove underline from the button */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  .contact-button:hover {
+    background-color: #0056b3; /* Darker background color on hover */
+  }
+  

@@ -1,0 +1,21 @@
+footer {
+    background-color: #333; /* Background color for the footer */
+    color: #fff; /* Text color */
+    padding: 20px; /* Padding around the content */
+    text-align: center; /* Center-align the content */
+  }
+  
+  .social-links, .email-link {
+    display: inline-block; /* Display as inline block */
+    margin-bottom: 10px; /* Add space between social links and email link */
+  }
+  
+  .social-links a, .email-link a {
+    color: #fff; /* Text color */
+    text-decoration: none; /* Remove underline from links */
+    margin: 0 10px; /* Add space between links */
+  }
+  
+  .social-links a:hover, .email-link a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }

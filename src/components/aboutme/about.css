@@ -1,0 +1,45 @@
+#about {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-text {
+    margin-bottom: 20px;
+}
+
+.about-skills {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.about-skills h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.about-skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about-skills li {
+    margin-bottom: 15px;
+}
+
+.about-skills li strong {
+    font-weight: bold;
+}
