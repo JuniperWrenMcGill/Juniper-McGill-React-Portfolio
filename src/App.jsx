@@ -5,7 +5,7 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import AboutMe from './components/aboutMe/about'; // Importing the AboutMe component
+import AboutMe from './components/aboutme/about'; // Importing the AboutMe component
 import Projects from './components/projects/project'; // Importing the Projects component
 import Footer from './components/footer/footer'; // Importing the Footer component
 import Home from './components/home/home';
