@@ -1,6 +1,7 @@
 # Juniper McGill's Portfolio
 
-Welcome to Juniper McGill's portfolio. This repository showcases Juniper's projects, skills, and achievements in the field of technology and beyond.
+Welcome to Juniper McGill's portfolio. This repository showcases Juniper's projects, skills, and achievements in the field of technology and beyond. To view Juniper's Portfolio visit [https://dashing-brigadeiros-90b723.netlify.app/](https://dashing-brigadeiros-90b723.netlify.app/)
+
 
 ## Skills
 
